@@ -1,0 +1,28 @@
+# 安装了 vim 插件 vimwiki 
+昨天我试用了一下 vim 的插件 [vimwiki](https://github.com/ethereum/wiki)
+，用 vim8 的 package 安装起来很方便，
+我试用了一下感觉它挺不错，用它可以很好地管理自己的日记和笔记文档，但是它
+默认支持的是 wiki 的语法，我之前一直用的是 markdown，对 wiki 并不了解，
+简略地看了一下 wiki 的语法后感觉它比 markdown 复杂，尤其是它的 Link 系统，
+有很多种链接方式，不像 markdown 只有两种。
+
+不过 vimwiki 这个插件也支持 markdown 的语法，需要设置一下它的全局变量。
+但是我没有去设置，我感觉设置的过程中又会遇到一些问题，不如先试试它默认
+的 wiki 吧，顺便也了解一下它。
+
+我发现 wiki 的代码块里的代码在 vim 中不能高亮，不知道是不是插件不支持，
+这一点比 markdown 差。我可能还需要再多了解了解。
+
+因为这个原因，我又去试
+了一下 [vnote](https://github.com/lymslive/vnote)，
+它也是一个像 vimwiki 那样管理文档的：在一个根目录中使用索引来管理文档。
+不过它默认支持的是 markdown，这一点符合我的心意，所以我安装了它。
+但是我在使用的时候它却出了 bug，每次打开或新建一个笔记时它都会报错，
+我尝试着找了找错误，但是没有找到。我想在 github 中给它 issue 一下，
+但是我看了看以前的 3 个已经 closed 的 issue，
+都是 [wsdjeg](https://github.com/wsdjeg) issue 的，
+讨论的是一些功能的问题，我觉得我遇到这样的问题就
+issue 是还是太草率了，于是我放弃它了，又返回来用 vimwiki 了。
+
+现在我已经把 vimwiki 搭建好了，这一篇笔记是我搭建好它后写的第一个笔记。
+
