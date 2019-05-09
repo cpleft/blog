@@ -8,4 +8,4 @@ Session*.vim
 *.tgz
 
 # personal dairy file
-*-
+diary/
