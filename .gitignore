@@ -1,0 +1,11 @@
+*.swp
+tags
+*.o
+*.out
+*.bak
+Session*.vim
+*.tar.gz
+*.tgz
+
+# personal dairy file
+*-
