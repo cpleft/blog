@@ -2,7 +2,7 @@
 > 用来与我的本地文档同步。
 
 # Note
-- [Bug Collection](./note/Bug\ Collection.md)
+- [Bug Collection](./note/BugCollection.md)
 
 # Thought
 - [比喻的意象](./thought/比喻的意象.md)
