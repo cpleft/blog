@@ -1,4 +1,4 @@
-# Bug Collection.md
+# Bug Collection
 > This page is to collect bugs I encountered.
 
 ---
