@@ -74,3 +74,7 @@ rar a X.rar file1 file2 directory1 directory2
 ```
 rar x X.rar
 ```
+
+## 遇到的一些问题
+- stdin: unexpected end of file (EOF)
+通常是压缩文件不完整，需要重新下载。
