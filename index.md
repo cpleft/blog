@@ -4,6 +4,7 @@
 # Note
 - [Bug Collection](./note/BugCollection.md)
 - [linux 下压缩和解压文件](./note/linux-archive.md)
+- [English Writing 的规范](./note/EnglishWriting.md)
 
 # Thought
 - [比喻的意象](./thought/比喻的意象.md)
