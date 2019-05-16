@@ -33,7 +33,7 @@
 - 被 " 引用的句子第一个单词的首字母大写。
 - 但当句子被说话人分开时，比如
 ```
-"My trip to Mount Tai," he said, "was interesting but tiring."
+"What really annoyed me," he said, "was the cry of the babby."
 ```
 就不用大写第二部分的首字母。
 
