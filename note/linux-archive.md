@@ -55,6 +55,24 @@ tar zcvf X.tar.gz file1 file2 directory1 directory2
 tar zxvf X.tar.gz
 ```
 
+### .tar.xz
+- 解压
+```
+tar Jxvf X.tar.xz
+```
+
+### .tar.bz2
+- 解压
+```
+tar jxvf X.tar.bz2
+```
+
+### .tar.Z
+- 解压
+```
+tar Zxvf X.tar.Z
+```
+
 ### .zip
 - 压缩
 ```
