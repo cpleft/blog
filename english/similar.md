@@ -21,6 +21,7 @@ shed            n.棚屋
 
 ---
 lane            n.小径
+panel           n.面，板；讨论组
 
 ---
 genius          n.天才
@@ -91,7 +92,8 @@ custody
 
 ---
 divorce         v.离婚 n.离婚
-ddiverse        adj.不同的
+divert          v.转向；转移
+diverse        adj.不同的
 diversion       n.转移, 改变方向
 device
 devise          v.设计，想出
@@ -108,6 +110,7 @@ lip             n.嘴唇
 ---
 shuffle         v.洗牌；拖着脚走
 shatter         v.打碎
+shutter         n.百叶窗；快门
 
 ---
 rope            n. v.
@@ -123,3 +126,31 @@ tackle          v.对付，处理
 abroad
 broad
 board
+
+---
+defect
+
+---
+prevention      预防
+preservation    保护
+
+---
+propose         v.
+proportion      n.比例
+proper          adj.适合的
+
+---
+principal       n.校长
+principle       n.
+
+---
+advance         v. n.
+adverse         adj.不利的
+advert          v. n.广告
+advise          v.
+advice          n.
+
+---
+stumble         v.绊倒
+plumble         n.管道工
+tremble         v.n.发抖
