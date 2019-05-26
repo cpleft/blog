@@ -40,7 +40,7 @@ is multiplied by                        *
 is divided by                           ÷
 
 ---
-###
+### form of government
 Parliament                      英国议会
 the House of Lords              上议院
 the House of Commons            下议院
@@ -48,4 +48,21 @@ the House of Commons            下议院
 Congress                        美国国会
 the House of Councilors / senate参议院
 the House of Representatives    众议院
+
+---
+### administration
+bail                v. n.保释
+
+---
+### trees and fruits
+plum                李
+willow              柳
+oak                 橡
+pine                松
+
+---
+### insect
+cricket             蟋蟀
+ant
+fly
 

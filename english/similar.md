@@ -107,9 +107,19 @@ lip             n.嘴唇
 
 ---
 shuffle         v.洗牌；拖着脚走
+shatter         v.打碎
 
 ---
 rope            n. v.
 ramp            n.
 rape
 rap
+
+---
+tack            n.平头钉
+tackle          v.对付，处理
+
+---
+abroad
+broad
+board
