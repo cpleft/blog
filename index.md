@@ -16,3 +16,7 @@
 
 # Homework
 - [uCOS](./homework/uCOS.md)
+
+# English
+- [similar](./english/similar.md)
+- [classify](./english/classify.md)
