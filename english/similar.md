@@ -37,6 +37,7 @@ hazardous
 ---
 grim            adj.冷酷无情的
 grid            n.格子
+grin            v.
 
 ---
 own             v.欠
@@ -51,6 +52,7 @@ peach                           n.桃子
 
 ---
 rotten                          adj.腐烂的，腐朽的
+decay                           n. v.
 rusty                           adj.生锈的
 
 ---
@@ -71,10 +73,13 @@ proceed         v.前进；继续做  n.收入
 proceeds        n.收入
 proceeding      n.行为，做法
 
+precede
+
 ---
 wipe            v.擦，揩
 broom           n.扫帚 v.扫除，用扫帚扫
 sweep           v.扫
+mop             n.拖把
 
 ---
 conform         v.遵照
@@ -154,3 +159,49 @@ advice          n.
 stumble         v.绊倒
 plumble         n.管道工
 tremble         v.n.发抖
+
+---
+chaos           n.
+
+---
+mutual          adj.
+
+---
+scratch         v. n.
+sketch          v. n.
+
+---
+legacy          n.遗产
+
+---
+empire          n.
+
+---
+disrupt         v.
+corrupt         adj. v.
+bankrupt        adj. n. v.
+interrupt       v.
+
+---
+contract        n.
+pact
+
+---
+preposition     n.(prep)
+propose         v.
+
+---
+humour          n.
+rumour          n. v.
+tumour          n.
+
+---
+stimulate       v.
+simulate        v.
+
+---
+vocal               adj.口述的
+
+---
+dash
+deck

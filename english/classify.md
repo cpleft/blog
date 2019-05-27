@@ -14,9 +14,11 @@ legitimate          adj.合法的，合理的
 legislation         n.立法
 statutory           adj.法定的
 jurisdiction        n.司法权，审判权；权力
+judicial            adj.司法的，法庭的，法律的，法官的，审判（上）的
 
 advocate            n.律师；提倡者 v.为...辩护
 counsel             n.律师 v.建议，劝告
+attorney            n.
 
 ---
 ### punctuation marks
@@ -93,6 +95,7 @@ head
 brain
 skull
 hair
+fringe              刘海
 forehead
 eyes
 eyebrow
@@ -145,3 +148,12 @@ lung
 kidney
 liver
 stomach
+
+---
+### animal
+bull
+
+---
+orchestra           管弦乐队
+symphony
+
