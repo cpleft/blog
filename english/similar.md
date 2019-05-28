@@ -205,3 +205,16 @@ vocal               adj.口述的
 ---
 dash
 deck
+
+---
+compete         v.
+competition     n.
+competitive     adj.
+competitor      n.
+
+competent       adj.胜任的
+competence      n.
+
+---
+vocal           adj.
+verbal          adj.

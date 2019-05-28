@@ -15,10 +15,12 @@ legislation         n.立法
 statutory           adj.法定的
 jurisdiction        n.司法权，审判权；权力
 judicial            adj.司法的，法庭的，法律的，法官的，审判（上）的
+tribunal            n.法院
 
 advocate            n.律师；提倡者 v.为...辩护
 counsel             n.律师 v.建议，劝告
 attorney            n.
+solicitor           n.
 
 ---
 ### punctuation marks
