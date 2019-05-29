@@ -122,6 +122,8 @@ rope            n. v.
 ramp            n.
 rape
 rap
+rip             n. v.
+ripe            adj.
 
 ---
 tack            n.平头钉
@@ -162,6 +164,7 @@ tremble         v.n.发抖
 
 ---
 chaos           n.
+bias            adj. 偏心的
 
 ---
 mutual          adj.
@@ -218,3 +221,9 @@ competence      n.
 ---
 vocal           adj.
 verbal          adj.
+
+---
+awe             n. v. 惊叹；敬畏
+owe             vi. 欠
+own             adj. v.
+
