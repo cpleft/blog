@@ -227,3 +227,28 @@ awe             n. v. 惊叹；敬畏
 owe             vi. 欠
 own             adj. v.
 
+---
+transmit        v.传播
+transform       v.
+transfer        v.传输（文件）
+transit         n.运输
+transition      n.过渡期，转变
+translate       v.
+transplant      v.
+transport       v.运输
+
+---
+restrict        v.限制
+restraint       v.克制
+
+---
+crude           adj.天然的；简陋的
+crust           n.面包皮
+
+---
+prospect        n.前景
+
+---
+rent            v.租
+render          v.使成为
+lend            v.借
