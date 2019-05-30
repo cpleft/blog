@@ -7,6 +7,7 @@
 - [English Writing 的规范](./note/EnglishWriting.md)
 - [plan](./note/plan.md)
 - [c++ program testing](./note/test.md)
+- [gdb preliminary](./note/gdbuse.md)
 
 # Thought
 - [比喻的意象](./thought/比喻的意象.md)
