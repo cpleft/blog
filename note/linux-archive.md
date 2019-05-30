@@ -76,8 +76,9 @@ tar Zxvf X.tar.Z
 ### .zip
 - 压缩
 ```
-zip X.zip file1 file2 directory1 directory2
+zip -r X.zip file1 file2 directory1 directory2
 ```
+`-r` 代表递归地添加目录中的文件。
 - 解压
 ```
 unzip X.zip
