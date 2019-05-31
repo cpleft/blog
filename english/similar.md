@@ -252,3 +252,14 @@ prospect        n.前景
 rent            v.租
 render          v.使成为
 lend            v.借
+
+---
+expedition      n
+petition        n.请愿书
+
+---
+prosperity      adj.
+
+---
+track           n.
+trace           v.
