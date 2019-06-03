@@ -61,6 +61,14 @@ religion
 ---
 terror
 terrorist
+terrorism
+
+terrible        adj.糟糕的
+terribly        adv.极度地；非常地
+
+terrify         v.使害怕
+terrific        adj.极妙的
+territory       n.领地
 
 ---
 罕见的，少有的
@@ -139,6 +147,11 @@ defect
 ---
 prevention      预防
 preservation    保护
+conservation    保护
+conservative    保守者；保守党；保守党的
+
+convention      会议
+conventional    传统的；习俗的
 
 ---
 propose         v.
@@ -155,6 +168,7 @@ adverse         adj.不利的
 advert          v. n.广告
 advise          v.
 advice          n.
+advocate        v.提倡 n.律师
 
 ---
 stumble         v.绊倒
@@ -170,6 +184,7 @@ mutual          adj.
 
 ---
 scratch         v. n.
+stretch         v.n.伸展
 sketch          v. n.
 
 ---
@@ -190,6 +205,7 @@ pact
 
 ---
 preposition     n.(prep)
+proposition     n.
 propose         v.
 
 ---
@@ -206,7 +222,8 @@ vocal               adj.口述的
 
 ---
 dash
-deck
+deck            n.甲板
+dock            n.码头，船埠；被告席 v.（船）进港；扣工资；剪断
 
 ---
 compete         v.
@@ -243,6 +260,8 @@ restraint       v.克制
 ---
 crude           adj.天然的；简陋的
 crust           n.面包皮
+crush           v.被压坏
+brutal          adj.粗鲁的
 
 ---
 prospect        n.前景
@@ -260,5 +279,213 @@ petition        n.请愿书
 prosperity      adj.
 
 ---
-track           n.
-trace           v.
+track           n.跑道
+trace           v.追溯
+
+---
+bass            n.
+brass           n. adj.
+bronze          n.
+
+---
+allege          v.
+assert          v.
+
+---
+assemble        v. n.
+assembly        n.
+resemble        v.
+resemblance     n.
+
+---
+ambiguity       n.
+ambiguous       adj.
+ambition        n.
+ambitious       adj.
+
+---
+broom           v. n.
+boom            n.隆隆声 v.
+bang            n.爆炸声 v.
+
+---
+compliment      v.赞美
+completion      n.
+compliant       adj.
+
+---
+concept         n.概念
+conception      n.
+
+---
+consent         v.
+consensus       n.
+
+---
+defect          n.缺点
+defeat          v. n.
+
+---
+empire          n.
+emperor         n.
+
+---
+emphasis        n.
+emphasize       v.
+
+---
+flee            v.
+fleet           n.
+
+---
+flavour         n.味道；调味品；特色 v.给...调味
+flood           n. v.
+floor           n.
+flour           n.面粉
+flower          n.
+
+---
+hierarchy       n.
+
+hereditary      adj.
+
+inherent        adj.内在的
+inherit         v.
+inheritance     n.
+
+---
+inferior        adj. n.
+superior
+
+---
+rag             n.抹布
+mob             n.暴民
+
+---
+metric          adj.米制的
+matrix
+
+---
+liberal         adj.开明的，慷慨的，自由主义的 n.
+literal         adj.
+deliberate      adj.故意的
+
+---
+betray          v.
+portray         v.描绘
+stray           v.走失
+tray            n.盘，碟
+
+---
+pier            n.
+pierce          v.
+
+---
+pot             n.锅；壶；罐；盆
+pottery         n.
+
+---
+pregnant        adj.
+pregnancy       n.
+
+---
+quote           v.
+quotation       n.
+quota           n.配额
+
+---
+par             n.  on par with
+peer            n. v.
+
+---
+reluctant       adj.不情愿的
+redundant       adj.多余的
+
+---
+sting           v. n.
+cling           v.紧紧抓住
+
+---
+sore            adj.
+sour            adj.
+
+---
+clash           v. n.
+slash           v. n.
+clasp           clasp his hands together
+clap            v.n.拍手；掌声
+
+---
+dawn
+
+---
+immigrant       n.
+immigration
+
+---
+fur             n.
+furry           adj.毛皮的；盖着毛皮的
+fury            n.狂怒
+furious         adj.狂怒的
+further         adj.更远的
+
+---
+lamp            n.
+lump            n.团 v.
+
+---
+phase           n.
+phrase          n.
+
+---
+self-discipline
+self-esteem
+
+---
+sew             v.
+see saw         v.
+
+---
+revenue         n.财政收入
+avenue          n.
+venue           n.审判地
+
+---
+assume          v.
+presume         v.推测
+resume          n.简历
+consume         v.消耗
+
+---
+butcher         n.
+bachelor        n.
+
+---
+explain         v.
+explanation     n.
+explicit
+explode         v.爆炸
+explosion       n.爆炸
+explosive       adj.易炸的
+exploit         v.剥削；利用；开采
+exploitation    n.剥削；利用；开采
+explore         v.探险
+exploration      n.
+
+---
+state
+statue          n.塑像
+status          n.状态
+
+---
+cite            v.
+site            v.
+
+---
+cotempt         v.鄙视
+contemplate     v.沉思
+
+---
+material        n.材料
+maternal        adj.母性的
+maternity       n.母性

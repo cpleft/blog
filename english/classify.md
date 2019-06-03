@@ -6,6 +6,7 @@ niece
 ---
 ### kitchen
 stove
+oven
 
 ---
 ### legal
@@ -73,6 +74,10 @@ willow              柳
 oak                 橡
 pine                松
 cocoa               可可树
+
+---
+### vegetables
+lettuce             生菜
 
 ---
 ### insect
@@ -158,3 +163,17 @@ bull
 orchestra           管弦乐队
 symphony
 
+---
+### farming
+harvest             n.收获 v.收割
+cereal              n.谷类
+cultivate           v.耕作
+
+---
+### weather
+hail
+
+---
+### metal
+calcium             钙
+aluminium
