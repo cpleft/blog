@@ -204,6 +204,24 @@ contract        n.
 pact
 
 ---
+content         n.
+contend         v.斗争
+contention      n.斗争；争夺
+extend          v.
+extension       n.
+extensive       adj.
+extent          n.程度
+
+---
+tense           n.时态 v.拉紧 adj.（神经）紧张的
+intense         adj.强烈的；紧张的；热情的
+extense         adj.扩展的；伸展的
+
+---
+intensive       adj.广阔的
+extensive       adj.加强的；密集的
+
+---
 preposition     n.(prep)
 proposition     n.
 propose         v.
@@ -218,7 +236,11 @@ stimulate       v.
 simulate        v.
 
 ---
-vocal               adj.口述的
+vocal           adj.口述的（声音）
+verbal          adj.言语的（文字）
+oral            adj.口腔的；口头的
+
+vowel           n.元音 adj.元音的
 
 ---
 dash
@@ -233,10 +255,6 @@ competitor      n.
 
 competent       adj.胜任的
 competence      n.
-
----
-vocal           adj.
-verbal          adj.
 
 ---
 awe             n. v. 惊叹；敬畏
@@ -265,6 +283,9 @@ brutal          adj.粗鲁的
 
 ---
 prospect        n.前景
+
+---
+insight         n.深刻的见解；洞察力
 
 ---
 rent            v.租
@@ -329,6 +350,8 @@ defeat          v. n.
 empire          n.
 emperor         n.
 
+imperial        adj.皇家的
+
 ---
 emphasis        n.
 emphasize       v.
@@ -350,6 +373,7 @@ hierarchy       n.
 hereditary      adj.
 
 inherent        adj.内在的
+coherent        adj.一致的; 协调的;
 inherit         v.
 inheritance     n.
 
@@ -423,6 +447,10 @@ immigrant       n.
 immigration
 
 ---
+import
+export
+
+---
 fur             n.
 furry           adj.毛皮的；盖着毛皮的
 fury            n.狂怒
@@ -477,6 +505,17 @@ state
 statue          n.塑像
 status          n.状态
 
+statue
+carving
+bust
+
+curve
+carving
+
+---
+stack
+pile
+
 ---
 cite            v.
 site            v.
@@ -489,3 +528,117 @@ contemplate     v.沉思
 material        n.材料
 maternal        adj.母性的
 maternity       n.母性
+
+---
+ivory           n. adj
+envoy           n.使者
+irony           n.反讽
+
+---
+opt             v.选择
+apt             adj.易于（做某事的倾向）
+
+---
+patch           n.补丁 v.打补丁
+batch           n.批
+
+pitch           v.投掷
+fetch           v.拿回
+
+---
+conduct         n.行为
+conductor       n.导体；售票员；指挥
+
+---
+lay             v.
+
+---
+yell            v.
+utter           v.
+
+yield           n.产量 v.出产；屈服
+
+---
+scent           n.香气 v.嗅到
+decent          adj.
+ascent          n.登高
+
+---
+approve         v.
+disapprove      v.
+improve         v.
+
+---
+arrogance       n.
+
+---
+lease           n.租约 v.出租
+release         n. v.
+
+---
+pose            n. v.
+prose           n.
+
+---
+promise         n.v.
+promising       adj.有希望的；有前途的
+
+---
+eagle           n.
+eager           adj.热切的
+
+---
+tunnel          n.v.
+canal           n.
+
+---
+testimony       n.证词
+testament       n.遗嘱
+
+---
+project
+projection      n.投影
+
+---
+flat            adj.
+flap            v.拍打（翅膀）
+
+---
+swell           v.n. adj.肿大的
+sway            v.摇摆
+swing           n.摇摆；秋千
+stall           n.摊
+
+---
+formal          adj.
+formality       n.一丝不苟
+
+---
+despite         prep.
+spite           n.v.刁难
+
+---
+incident        n.
+incidentally    adv.顺带地
+incidence       n.发生率
+
+---
+crop            n.作物；收成；一批
+corps           n.
+corpse          n.
+
+---
+splash          v.溅 n.飞溅的水
+spray           n.喷雾 v.喷
+
+---
+distinguish     v.区别
+distinguished   adj.著名的；卓越的
+
+---
+berry           n.
+ferry           n.渡口
+
+---
+custom          n.风俗
+costume         n.服装

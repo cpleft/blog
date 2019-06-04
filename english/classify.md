@@ -21,6 +21,8 @@ advocate            n.律师；提倡者 v.为...辩护
 counsel             n.律师 v.建议，劝告
 attorney            n.
 solicitor           n.
+barrister           n.
+lawyer
 
 ---
 ### punctuation marks
@@ -78,6 +80,8 @@ cocoa               可可树
 ---
 ### vegetables
 lettuce             生菜
+onion
+garlic
 
 ---
 ### insect
@@ -158,6 +162,8 @@ stomach
 ---
 ### animal
 bull
+parrot
+giraffe             长颈鹿
 
 ---
 orchestra           管弦乐队
@@ -165,7 +171,9 @@ symphony
 
 ---
 ### farming
+farmhouse           n.农舍
 harvest             n.收获 v.收割
+crop                n.作物；收成；一批
 cereal              n.谷类
 cultivate           v.耕作
 
@@ -177,3 +185,14 @@ hail
 ### metal
 calcium             钙
 aluminium
+
+---
+### device
+printer
+fax
+
+---
+### profession
+librarian           图书管理员
+historian           历史学家
+inventor
