@@ -2,6 +2,7 @@
 aunt
 uncle
 niece
+nephew
 
 ---
 ### kitchen
@@ -164,6 +165,8 @@ stomach
 bull
 parrot
 giraffe             长颈鹿
+bee
+wasp                黄蜂
 
 ---
 orchestra           管弦乐队
@@ -196,3 +199,9 @@ fax
 librarian           图书管理员
 historian           历史学家
 inventor
+
+---
+### shape
+rectangle
+triangle
+

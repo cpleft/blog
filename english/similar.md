@@ -213,6 +213,10 @@ extensive       adj.
 extent          n.程度
 
 ---
+argue           v.
+contend
+
+---
 tense           n.时态 v.拉紧 adj.（神经）紧张的
 intense         adj.强烈的；紧张的；热情的
 extense         adj.扩展的；伸展的
@@ -467,7 +471,7 @@ phrase          n.
 
 ---
 self-discipline
-self-esteem
+self-esteem     n.自尊
 
 ---
 sew             v.
@@ -642,3 +646,91 @@ ferry           n.渡口
 ---
 custom          n.风俗
 costume         n.服装
+
+---
+title           n.
+entitle         v.
+
+---
+briefcase       n.
+suitcase        n.
+
+---
+grave           adj.严重的；庄重的 n.墓
+gravity         n.引力
+
+---
+bulk            adj. n.
+
+---
+disguise        v.伪装 n.
+disgusting      adj.
+
+---
+batter          v.连击
+better
+bitter
+battery         n.
+butterfly
+butter          n.
+shatter         v.粉碎
+
+---
+infer           v.推理
+inference
+
+---
+significant
+magnificent
+
+---
+optimistic
+pessimistic
+
+---
+cope            v.对付
+scope           n.
+
+---
+strain          n.
+burden          n.
+
+constrain       v.约束；强迫；限制
+
+---
+solution
+resolution      n.决心；分辨率
+
+---
+rubber          n.橡胶；橡胶制品
+rob
+
+---
+region
+religion
+
+---
+scrape          v.刮，擦 n.擦伤
+scratch         v. n.
+
+---
+temper          n.脾气
+temperature     n.温度
+temple          n.庙
+temporary       adj.暂时的
+contemporary    adj.
+tempt           v.引诱
+temptation      n.
+
+---
+deceive         v.欺骗
+deception       n.
+
+---
+sauce           n.酱油
+saucer          n.托盘
+saucepan        n.平底锅
+sausage         n.香肠
+
+---
+miracle         n.奇迹
