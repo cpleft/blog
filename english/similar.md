@@ -215,6 +215,8 @@ extent          n.程度
 ---
 argue           v.
 contend
+debate
+hassle
 
 ---
 tense           n.时态 v.拉紧 adj.（神经）紧张的
@@ -287,9 +289,18 @@ brutal          adj.粗鲁的
 
 ---
 prospect        n.前景
+prospective     n.预期 adj.未来的；预期的
+
+perspective     n.角度，观点
+
+prosperity      n.繁荣
+
+retrospective   adj.回顾的；怀旧的
 
 ---
 insight         n.深刻的见解；洞察力
+profound        adj.见解深刻的
+perception      n.洞察力
 
 ---
 rent            v.租
@@ -431,6 +442,7 @@ redundant       adj.多余的
 
 ---
 sting           v. n.
+sling           n.吊索；弹弓
 cling           v.紧紧抓住
 
 ---
@@ -449,6 +461,8 @@ dawn
 ---
 immigrant       n.
 immigration
+
+settler         n.移民者
 
 ---
 import
@@ -476,6 +490,7 @@ self-esteem     n.自尊
 ---
 sew             v.
 see saw         v.
+sow             v.
 
 ---
 revenue         n.财政收入
@@ -554,7 +569,8 @@ conduct         n.行为
 conductor       n.导体；售票员；指挥
 
 ---
-lay             v.
+lay             v.放，躺，安置；下蛋
+lie             v.躺；位于；说谎 n.谎言，假象
 
 ---
 yell            v.
@@ -574,6 +590,7 @@ improve         v.
 
 ---
 arrogance       n.
+elegance        n.
 
 ---
 lease           n.租约 v.出租
@@ -640,8 +657,15 @@ distinguish     v.区别
 distinguished   adj.著名的；卓越的
 
 ---
+distinct        adj.独特的
+distinction     n.优秀；差别
+distinctive     adj.有特色的
+
+---
 berry           n.
 ferry           n.渡口
+
+fairy           adj.
 
 ---
 custom          n.风俗
@@ -683,9 +707,15 @@ inference
 significant
 magnificent
 
+significantly   adv.意味深长地；值得注目的
+
 ---
 optimistic
 pessimistic
+
+---
+negative        adj.消极的；否定的
+positive        adj.正面的；
 
 ---
 cope            v.对付
@@ -734,3 +764,123 @@ sausage         n.香肠
 
 ---
 miracle         n.奇迹
+misery          n.不幸
+
+---
+metal           n.
+medal           n.奖牌
+
+---
+consciousness
+awareness
+
+---
+fume            n.蒸气
+perfume
+
+---
+purse           n.女用钱包
+pruchase        v.买
+
+---
+interference
+intervention
+
+---
+moustache
+beard
+
+---
+serious
+serial
+
+---
+recur
+occur
+incur
+
+---
+carrot          n.胡萝卜
+parrot
+
+---
+jet
+
+---
+pin
+stud            n.图钉
+
+---
+rhythm          n.节奏，格律
+
+---
+exaggerate      v.
+aggressive      adj.
+
+---
+valve           n.阀门
+value
+evolve          v.
+
+---
+integral        adj.
+integrate       v.
+
+integrity       adj.
+
+---
+generat         v.产生
+generator       n.发电机；生产者
+generation      n.一代
+
+---
+habitat         n.栖息地
+habit           n.习惯
+
+inhabit         v.居住于
+inhabitant      n.居民
+
+---
+mode            n.
+model           n.模型；模特 v.模仿
+module          n.组件
+
+moderate        adj.适中的
+
+modest          adj.谦虚的；端庄的
+
+moral           adj.道德上的
+
+---
+ethical         adj.伦理的
+
+---
+spectator       n.观众
+spectacle       n.场面；景象；奇观
+
+---
+drama
+dramatic
+
+tragedy
+tragic
+
+comedy
+comic
+
+---
+mouthful
+handful
+
+---
+sob
+weep
+
+---
+tide            n.浪
+tidy            adj.整洁的
+
+---
+suburb
+outskirt
+countryside

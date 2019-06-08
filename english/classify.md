@@ -5,7 +5,7 @@ niece
 nephew
 
 ---
-### kitchen
+### kitchen and cookery
 stove
 oven
 
@@ -204,4 +204,54 @@ inventor
 ### shape
 rectangle
 triangle
+
+---
+### musical
+chord               和弦
+tune                曲调
+tone                音色
+
+---
+### home
+lodge
+house
+cottage
+shed
+cabin
+bungalow
+
+---
+jar
+cup
+bottle
+pot
+kettle
+jug
+
+---
+### taste
+bitter
+sweet
+
+---
+abroad
+aboard
+
+---
+### subject
+biology
+archaeology         考古学
+ecology             生态学
+geology             地质学
+psychology          心理学
+sociology
+physics
+mathematics
+linguistics         语言学
+athletics           体育
+economics
+electronics         电子学
+politics
+chemistry
+
 
