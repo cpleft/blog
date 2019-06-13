@@ -12,6 +12,7 @@
 # Thought
 - [比喻的意象](./thought/比喻的意象.md)
 - [罂粟的次生代谢产物](./thought/罂粟的次生代谢产物.md)
+- [家庭网络](./thought/homenet.md)
 
 # Diary
 - [2019-04-30](./diary/19-04-30.md)
