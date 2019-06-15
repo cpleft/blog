@@ -178,6 +178,7 @@ farmhouse           n.农舍
 harvest             n.收获 v.收割
 crop                n.作物；收成；一批
 cereal              n.谷类
+rice
 cultivate           v.耕作
 
 ---
@@ -255,3 +256,6 @@ politics
 chemistry
 
 
+---
+### 暴乱
+riot                n.暴动

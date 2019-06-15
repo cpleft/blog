@@ -809,6 +809,8 @@ jet
 ---
 pin
 stud            n.图钉
+tack            n.平头钉
+peg             n.夹子
 
 ---
 rhythm          n.节奏，格律
@@ -884,3 +886,11 @@ tidy            adj.整洁的
 suburb
 outskirt
 countryside
+
+---
+narrative       n.adj.
+depict
+describe
+state
+recount
+portray
