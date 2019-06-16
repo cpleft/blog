@@ -154,6 +154,9 @@ convention      会议
 conventional    传统的；习俗的
 
 ---
+preserve        v.
+
+---
 propose         v.
 proportion      n.比例
 proper          adj.适合的
@@ -217,6 +220,9 @@ argue           v.
 contend
 debate
 hassle
+quarrel         v.n.
+
+rival           v.与...竞争
 
 ---
 tense           n.时态 v.拉紧 adj.（神经）紧张的
@@ -437,6 +443,10 @@ par             n.  on par with
 peer            n. v.
 
 ---
+pile
+stack
+
+---
 reluctant       adj.不情愿的
 redundant       adj.多余的
 
@@ -530,10 +540,6 @@ bust
 
 curve
 carving
-
----
-stack
-pile
 
 ---
 cite            v.
@@ -894,3 +900,34 @@ describe
 state
 recount
 portray
+
+---
+portray         v.
+portrait        n.肖像
+
+---
+retail          n.零售
+retire          v.退休
+
+---
+dominate        v.支配
+dominant        adj.主要的；支配的；统治的
+dominance       n.支配；统治；优势
+domination      n.支配；统治；优势
+
+nominate        v.提名
+nominal         adj.微不足道的；提名的
+nomination      n.提名
+
+predominate     v.（数量上）占优势；以...为主
+predomination   n.卓越
+
+prominent       adj.突出的；显赫的；重要的
+
+---
+conform         v.遵守
+confirm         v.确认
+
+---
+lively          adj.
+lovely          adj.
