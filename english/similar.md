@@ -317,6 +317,8 @@ lend            v.借
 expedition      n
 petition        n.请愿书
 
+expenditure     n.
+
 ---
 prosperity      adj.
 
@@ -905,6 +907,8 @@ portray
 portray         v.
 portrait        n.肖像
 
+profile
+
 ---
 retail          n.零售
 retire          v.退休
@@ -931,3 +935,19 @@ confirm         v.确认
 ---
 lively          adj.
 lovely          adj.
+
+---
+peak
+ridge
+
+---
+strip           v.脱去（衣服）n.长条
+stripe          n.长条，长纹
+
+---
+radius          n.半径
+diameter        n.直径
+
+---
+swollen         adj.肿胀的
+swallow         n.v.吞下
