@@ -10,6 +10,12 @@ audit           v.审计
 auction         n.拍卖
 
 ---
+audition        听力，听觉；试听
+auditor        旁听生；审计员
+
+audience
+
+---
 demand          v.坚决或强烈要求
 require         v.要求所必需的东西
 request         v.礼貌正式的请求
@@ -163,7 +169,7 @@ proper          adj.适合的
 
 ---
 principal       n.校长
-principle       n.
+principle       n.原则
 
 ---
 advance         v. n.
@@ -589,7 +595,7 @@ yield           n.产量 v.出产；屈服
 ---
 scent           n.香气 v.嗅到
 decent          adj.
-ascent          n.登高
+ascent          n.登高；上坡路
 
 ---
 approve         v.
@@ -774,6 +780,8 @@ sausage         n.香肠
 miracle         n.奇迹
 misery          n.不幸
 
+miserable       adj.
+
 ---
 metal           n.
 medal           n.奖牌
@@ -951,3 +959,19 @@ diameter        n.直径
 ---
 swollen         adj.肿胀的
 swallow         n.v.吞下
+
+---
+skate           n.冰鞋 v.滑冰
+ski             n.滑雪板 v.滑雪
+
+---
+freight         货物
+
+---
+apartment
+department
+compartment
+
+---
+promise         n.v.
+premises        房产

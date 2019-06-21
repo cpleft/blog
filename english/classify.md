@@ -257,7 +257,9 @@ electronics         电子学
 politics
 chemistry
 
+geographical        地理学的
 
 ---
 ### 暴乱
 riot                n.暴动
+parade              n.v.游行
