@@ -111,8 +111,9 @@ custody
 ---
 divorce         v.离婚 n.离婚
 divert          v.转向；转移
-diverse        adj.不同的
 diversion       n.转移, 改变方向
+diverse         adj.不同的
+diversity       n.多样性
 device
 devise          v.设计，想出
 
@@ -975,3 +976,13 @@ compartment
 ---
 promise         n.v.
 premises        房产
+
+---
+premiere        n.首次公演 v.初次演出 adj.初次的
+
+---
+cement          n.水泥
+cemetery        n.公墓
+
+---
+anonymous       匿名的

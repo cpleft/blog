@@ -160,6 +160,15 @@ lung
 kidney
 liver
 stomach
+brain
+
+---
+### religion
+parish              教区
+priest              牧师
+nun                 修女
+clergy              n.神职人员
+vicar               n. (教区或教堂)牧师，代理人
 
 ---
 ### animal
