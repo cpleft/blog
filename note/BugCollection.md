@@ -18,3 +18,23 @@ vis[i] 不是 false，就会直接退出循环(break)** ，而不是像期望的
 for (int i = 0; i <= 5; ++i)
     if (vis[i] == false)
 ```
+
+### c++ . 操作符
+在一次代码中
+```cpp
+    while (head < tail) {
+        for (int i = 0; i < queue[head].length(); ++i) {
+            string s = queue[head].erase(i);
+            // ...
+                if (queue[k] == s)
+```
+我的想法是把 `queue[head]` erase 之后赋值给 s，但是 `.erase()` 的操作
+实际上作用于 `queue[head]` 本身。 这个时候 queue[k] 和 s 一定是相等的。
+
+正确的写法应当将它们分开：
+```cpp
+    while (head < tail) {
+        for (int i = 0; i < queue[head].length(); ++i) {
+            string s = queue[head];
+            s = s.erase(i);
+```
