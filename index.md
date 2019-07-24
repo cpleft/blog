@@ -9,6 +9,7 @@
 - [c++ program testing](./note/test.md)
 - [gdb preliminary](./note/gdbuse.md)
 - [regex](./note/regex.md)
+- [修改grub 引导上次启动的系统](./note/grub.md)
 
 # Thought
 - [比喻的意象](./thought/比喻的意象.md)
