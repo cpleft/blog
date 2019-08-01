@@ -17,5 +17,5 @@ $ nmcli dev wifi connect `SSID` password `password`
 ```
 连接以往的wifi：
 ```
-$ nmcli con up id `SSID`
+$ nmcli con up `SSID`
 ```

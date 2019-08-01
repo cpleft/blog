@@ -10,6 +10,7 @@ $ sudo vim /etc/default/grub
 
 ```
 GRUB_DEFAULT=saved
+GRUB_SAVEDEFAULT=true
 ```
 
 ```
