@@ -12,6 +12,8 @@
 - [修改grub引导上次启动的系统](./note/grub.md)
 - [rename的使用](./note/rename.md)
 - [linux命令连接wifi](./note/cmlwifi.md)
+- [i3wm](./note/i3wm.md)
+- [newlinux](./note/newlinux.md)
 
 # Thought
 - [比喻的意象](./thought/比喻的意象.md)
