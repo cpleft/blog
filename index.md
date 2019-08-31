@@ -14,6 +14,7 @@
 - [linux命令连接wifi](./note/cmlwifi.md)
 - [i3wm](./note/i3wm.md)
 - [newlinux](./note/newlinux.md)
+- [格式化U盘](./note/udisk.md)
 
 # Thought
 - [比喻的意象](./thought/比喻的意象.md)
